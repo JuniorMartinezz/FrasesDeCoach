@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coach\'s Phrase</string>
+    <string name="frase2">Take control of your destiny or someone else will</string>
+    <string name="frase1">As more I train, I get luckier</string>
+    <string name="frase3">Live today while tomorrow doesn\'t come</string>
+    <string name="frase4">You\'re capable of anything</string>
+    <string name="frase5">If you don\'t like something, change it. If not, change your attitude</string>
+    <string name="frase6">What doesn\'t kill me makes me stronger</string>
+    <string name="frase7">If you want someone to trust, trust yourself</string>
+    <string name="frase8">Teachers open the door, but you must enter by yourself</string>
+    <string name="frase9">Imagine a new story for your life and believe in it</string>
+    <string name="frase10">At the end of the day, we can take a lot longer than we think we can</string>
+    <string name="btn_gerar_frase">Generate Phrase</string>
+    <string name="frases_de_motivacao">Motivation phrases!</string>
+    <string name="button_generate">Button to generate a motivatin phrase</string>
+    <string name="imagem_de_um_coach_dando_conselhos_aos_seus_seguidores">Picture of a coach giving advices to his followers</string>
+</resources>

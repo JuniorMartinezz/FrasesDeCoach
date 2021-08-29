@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Frases de Coach</string>
+    <string name="btn_gerar_frase">Gerar frase</string>
+    <string name="frases_de_motivacao">Frases de motivação!</string>
+    <string name="button_generate">Botão para gerar frase de motivação</string>
+    <string name="imagem_de_um_coach_dando_conselhos_aos_seus_seguidores">Imagem de um coach dando conselhos aos seus seguidores.</string>
+
+    <string-array name="frases">
+        <item name="frase1">"Quanto mais eu treino, mais sorte eu tenho"</item>
+        <item name="frase2">"Controle o seu destino ou alguém controlará"</item>
+        <item name="frase3">"Viva o hoje enquanto o amanhã não vem"</item>
+        <item name="frase4">"Você é capaz de tudo"</item>
+        <item name="frase5">"Se não gosta de alguma coisa, mude-a. Se não, mude sua atitude"</item>
+        <item name="frase6">"O que não provoca minha morte faz com que eu fique mais forte"</item>
+        <item name="frase7">"Se você quiser alguém em quem confiar, confie em si mesmo"</item>
+        <item name="frase8">"Os professores abrem a porta, mas você deve entrar por você mesmo"</item>
+        <item name="frase9">"Imagine uma nova história para sua vida e acredite nela"</item>
+        <item name="frase10">"Ao fim do dia, podemos aguentar muito mais do que pensamos que podemos"</item>
+    </string-array>
+
+    <string name="frase2">Controle o seu destino ou alguém controlará</string>
+    <string name="frase3">Viva o hoje enquanto o amanhã não vem</string>
+    <string name="frase4">Você é capaz de tudo</string>
+    <string name="frase5">Se não gosta de alguma coisa, mude-a. Se não, mude sua atitude</string>
+    <string name="frase6">O que não provoca minha morte faz com que eu fique mais forte</string>
+    <string name="frase7">Se você quiser alguém em quem confiar, confie em si mesmo</string>
+    <string name="frase8">Os professores abrem a porta, mas você deve entrar por você mesmo</string>
+    <string name="frase9">Imagine uma nova história para sua vida e acredite nela</string>
+    <string name="frase10">Ao fim do dia, podemos aguentar muito mais do que pensamos que podemos</string>
+    <string name="frase1">Quanto mais eu treino, mais sorte eu tenho</string>
+</resources>
